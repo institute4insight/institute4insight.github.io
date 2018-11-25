@@ -4,6 +4,11 @@ about: Describe the package and explain why it should be installed on the system
 
 ---
 
+THIS POST IS PUBLIC!
+DO NOT INCLUDE ANY PERSONAL OR SENSITIVE INFORMATION!
+DO NOT INCLUDE PASSWORDS OR EMAIL ADDRESSES!
+
+
 **Is your installation or upgrade request related to a project? Please describe.**
 A clear and concise description of the project.
 

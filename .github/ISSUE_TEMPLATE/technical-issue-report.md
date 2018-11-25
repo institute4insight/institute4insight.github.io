@@ -5,13 +5,12 @@ about: Report broken dependencies of software packages, unresponsive services, p
 
 ---
 
-=================================================
-THIS POST IS PUBLIC.
-DO NOT INCLUDE ANY PERSONAL OR SENSITIVE INFORMATION.
-DO NOT INCLUDE PASSWORDS OR EMAIL ADDRESSES
-=================================================
+THIS POST IS PUBLIC!
+DO NOT INCLUDE ANY PERSONAL OR SENSITIVE INFORMATION!
+DO NOT INCLUDE PASSWORDS OR EMAIL ADDRESSES!
 
-**System: **
+
+**System**
 Include the hostname of the affected system.
  
 **Describe the technical issue**
