@@ -6,4 +6,6 @@
   link: /blog.html
 - name: "Code Examples"
   link: /examples.html
+- name: "Data Sets"
+  link: /datasets.html
 
