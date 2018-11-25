@@ -1,7 +1,23 @@
-<nav>
+<!-- <nav>
   {% for item in site.data.navigation %}
     <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
       {{ item.name }}
     </a>
   {% endfor %}
+</nav> -->
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <a class="navbar-brand" href="#">Institute for Insight</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+        {% for item in site.data.navigation %}
+            <li {% if page.url == item.link %}class="nav-item active"{% else %}class="nav-item"{% endif %>
+            <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
+          </li>
+        {% endfor %}
+        </ul>
+    </div>
 </nav>
