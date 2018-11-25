@@ -5,7 +5,11 @@ about: Report broken dependencies of software packages, unresponsive services, p
 
 ---
 
-<p style="font-color:red;">THIS POST IS PUBLIC. DO NOT INCLUDE ANY PERSONAL OR SENSITIVE INFORMATION. DO NOT INCLUDE PASSWORDS OR EMAIL ADDRESSES</p>
+=================================================
+THIS POST IS PUBLIC.
+DO NOT INCLUDE ANY PERSONAL OR SENSITIVE INFORMATION.
+DO NOT INCLUDE PASSWORDS OR EMAIL ADDRESSES
+=================================================
 
 **System: **
 Include the hostname of the affected system.
